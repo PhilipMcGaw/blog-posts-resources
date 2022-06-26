@@ -1125,7 +1125,7 @@
     (property "Value" "Red" (id 1) (at 141.605 46.9264 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Diode_SMD:D_0805_2012Metric" (id 2) (at 139.7 45.72 90)
+    (property "Footprint" "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder" (id 2) (at 139.7 45.72 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 139.7 45.72 90)
@@ -1335,7 +1335,7 @@
       (reference "C1") (unit 1) (value "2u2") (footprint "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder")
     )
     (path "/c2362f82-f028-401c-ab37-14d044a4d523"
-      (reference "D1") (unit 1) (value "Red") (footprint "Diode_SMD:D_0805_2012Metric")
+      (reference "D1") (unit 1) (value "Red") (footprint "Diode_SMD:D_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
     (path "/36fe2ac2-8e53-469f-b1bc-21fc638c4489"
       (reference "D2") (unit 1) (value "Yellow") (footprint "Diode_SMD:D_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
