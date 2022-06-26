@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "brooch pin")(type "KiCad")(uri "${KIPRJMOD}/Library/brooch pin.pretty")(options "")(descr ""))
+  (lib (name "SMTM1632")(type "KiCad")(uri "${KIPRJMOD}/Library/SMTM1632.pretty")(options "")(descr ""))
+)

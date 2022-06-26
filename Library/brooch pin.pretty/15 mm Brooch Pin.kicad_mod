@@ -1,0 +1,18 @@
+(footprint "15 mm Brooch Pin" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
+  (tedit 0)
+  (attr smd)
+  (fp_text reference "REF**" (at 0 2.08 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ed1574cd-de59-498d-a0f4-933e50e2596b)
+  )
+  (fp_text value "15 mm Brooch Pin" (at 0 0 unlocked) (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp bba4a92d-d208-40c4-b15a-5f6749c2d0a5)
+  )
+  (fp_text user "${REFERENCE}" (at 0 5.08 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 52d49e80-6edd-428e-b32e-1a9c4e518ea5)
+  )
+  (fp_rect (start -8 -2) (end 8 2) (layer "F.SilkS") (width 0.12) (fill none) (tstamp d22a7b40-7120-4b04-976d-52a2fd3e6e3d))
+)
