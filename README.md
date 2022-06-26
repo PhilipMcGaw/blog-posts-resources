@@ -1,1 +1,3 @@
-#Blog Post Resources
+# Blog Post Resources
+
+This repo is contains 
